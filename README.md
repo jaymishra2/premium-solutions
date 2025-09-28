@@ -83,8 +83,8 @@ NEXTAUTH_SECRET=your-secret-key-here
 # Email Configuration
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
-EMAIL_USER=your-email@gmail.com
-EMAIL_PASS=your-app-password
+EMAIL_USER=<your-email@gmail.com>
+EMAIL_PASS=<your-app-password>
 
 # API
 API_URL=http://localhost:5000/api
