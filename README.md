@@ -1,6 +1,6 @@
-# Fangge Metal Products Website
+# Premium Metal Products Website
 
-A modern, responsive web application for Fangge Metal Products (Shandong) Co., Ltd., built with Next.js, React, Node.js, and MongoDB. This application showcases the company's steel and metal products, services, and provides a platform for customer inquiries and quote requests.
+A modern, responsive web application for Premium Metal Products (Shandong) Co., Ltd., built with Next.js, React, Node.js, and MongoDB. This application showcases the company's steel and metal products, services, and provides a platform for customer inquiries and quote requests.
 
 ## Features
 
@@ -58,7 +58,7 @@ A modern, responsive web application for Fangge Metal Products (Shandong) Co., L
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd fangge-metal-website
+cd premium-metal-website
 ```
 
 ### 2. Install Dependencies
@@ -76,7 +76,7 @@ cd ..
 Create a `.env.local` file in the root directory:
 ```env
 # Database
-MONGODB_URI=mongodb://localhost:27017/fangge-metal
+MONGODB_URI=mongodb://localhost:27017/premium-metal
 NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET=your-secret-key-here
 
@@ -124,7 +124,7 @@ npm start
 ## Project Structure
 
 ```
-fangge-metal-website/
+premium-metal-website/
 ├── app/                    # Next.js App Router pages
 │   ├── about/             # About Us page
 │   ├── contact/           # Contact page
@@ -255,15 +255,15 @@ Configure email settings in the `.env.local` file:
 
 ## License
 
-This project is proprietary software for Fangge Metal Products (Shandong) Co., Ltd.
+This project is proprietary software for Premium Metal Products (Shandong) Co., Ltd.
 
 ## Support
 
 For technical support or questions, please contact:
-- Email: info@fangge-metal.com
-- Phone: +86 123-456-7890
+- Email: 
+- Phone: 
 
 ---
 
-**Fangge Metal Products (Shandong) Co., Ltd.**
+**Premium Metal Products (Shandong) Co., Ltd.**
 *Premium Steel & Metal Solutions*

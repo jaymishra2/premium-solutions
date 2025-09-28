@@ -21,7 +21,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
 // MongoDB connection
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/fangge-metal';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/premium-metal';
 
 mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,

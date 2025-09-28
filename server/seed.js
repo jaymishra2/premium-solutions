@@ -128,7 +128,7 @@ const sampleNews = [
   {
     title: 'New Stainless Steel Grade 316L Now Available',
     description: 'We are excited to announce the addition of Grade 316L stainless steel to our product line, offering superior corrosion resistance for demanding applications.',
-    content: 'Fangge Metal Products is proud to introduce Grade 316L stainless steel to our comprehensive product range. This high-quality material offers exceptional corrosion resistance, making it ideal for applications in harsh environments such as marine, chemical processing, and medical equipment manufacturing. Our 316L stainless steel maintains the same excellent mechanical properties as standard 316 grade while providing enhanced resistance to pitting and crevice corrosion. Available in various forms including plates, sheets, bars, and tubes, this addition strengthens our position as a leading supplier of premium stainless steel products.',
+    content: 'Premium Metal Products is proud to introduce Grade 316L stainless steel to our comprehensive product range. This high-quality material offers exceptional corrosion resistance, making it ideal for applications in harsh environments such as marine, chemical processing, and medical equipment manufacturing. Our 316L stainless steel maintains the same excellent mechanical properties as standard 316 grade while providing enhanced resistance to pitting and crevice corrosion. Available in various forms including plates, sheets, bars, and tubes, this addition strengthens our position as a leading supplier of premium stainless steel products.',
     category: 'Product Update',
     author: 'Technical Team',
     tags: ['Stainless Steel', '316L', 'New Product', 'Corrosion Resistance'],
@@ -150,7 +150,7 @@ const sampleNews = [
   {
     title: 'Quality Certification Renewed - ISO 9001:2015',
     description: 'We are proud to announce the successful renewal of our ISO 9001:2015 quality management system certification, reaffirming our commitment to excellence.',
-    content: 'Fangge Metal Products has successfully renewed its ISO 9001:2015 quality management system certification following a comprehensive audit by an independent certification body. This certification demonstrates our ongoing commitment to maintaining the highest standards in quality management, customer satisfaction, and continuous improvement. The audit covered all aspects of our operations, from raw material procurement to final product delivery, and confirmed our adherence to international quality standards. This certification provides our customers with confidence in our ability to consistently deliver high-quality products and services.',
+    content: 'Premium Metal Products has successfully renewed its ISO 9001:2015 quality management system certification following a comprehensive audit by an independent certification body. This certification demonstrates our ongoing commitment to maintaining the highest standards in quality management, customer satisfaction, and continuous improvement. The audit covered all aspects of our operations, from raw material procurement to final product delivery, and confirmed our adherence to international quality standards. This certification provides our customers with confidence in our ability to consistently deliver high-quality products and services.',
     category: 'Certification',
     author: 'Quality Assurance Team',
     tags: ['ISO 9001', 'Certification', 'Quality', 'Standards'],
@@ -161,7 +161,7 @@ const sampleNews = [
 ];
 
 // Connect to MongoDB
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/fangge-metal';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/premium-metal';
 
 async function seedDatabase() {
   try {
