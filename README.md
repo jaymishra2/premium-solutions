@@ -265,5 +265,5 @@ For technical support or questions, please contact:
 
 ---
 
-**Premium Metal Products (Shandong) Co., Ltd.**
+**Premium Metal Products Co., Ltd.**
 *Premium Steel & Metal Solutions*
