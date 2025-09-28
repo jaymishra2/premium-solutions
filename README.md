@@ -1,4 +1,4 @@
-# Premium Metal Products Website
+# Premium Solutions Metal Products Website
 
 A modern, responsive web application for Premium Metal Products (Shandong) Co., Ltd., built with Next.js, React, Node.js, and MongoDB. This application showcases the company's steel and metal products, services, and provides a platform for customer inquiries and quote requests.
 
